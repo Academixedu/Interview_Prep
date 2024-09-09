@@ -67,5 +67,4 @@ To enable Swagger in a Spring Boot application, you can add the Swagger dependen
 ### 19. What is the purpose of @RequestMapping and its variants?
 @RequestMapping is used to map HTTP requests to specific handler methods in a controller. Its variants, such as @GetMapping, @PostMapping, @PutMapping, and @DeleteMapping, provide shortcuts for the respective HTTP methods, making it easier to define RESTful APIs.
 
-### 20. How can you implement pagination and sorting in Spring Boot?
-You can implement pagination and sorting in Spring Boot by using the Pageable and Sort interfaces provided by Spring Data JPA. You can define methods in your repository that accept these parameters, and Spring Data will automatically handle the pagination and sorting logic.
+
