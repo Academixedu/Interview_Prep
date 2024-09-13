@@ -55,7 +55,7 @@ Worked on three key projects that honed my skills in full-stack development:
 #### **User Authentication and Authorization:**
 
 - Secure user registration and login functionalities.
-- Implemented JWT (JSON Web Tokens) for stateless authentication.
+
 
 #### **Posting and Interactivity:**
 
