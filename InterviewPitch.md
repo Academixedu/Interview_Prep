@@ -22,7 +22,7 @@ Worked on three key projects that honed my skills in full-stack development:
 
 - **Reasons for Choices:**
   - **React's** component-based architecture allowed for modular development and reusability of components.
-  - **Redux** was essential for managing the global state, particularly for handling user authentication and maintaining the state across different components.
+  - **Redux** was essential for managing the global state, maintaining the state across different components.
   - **React MUI** provided pre-built components that ensured a consistent and professional look throughout the application.
 
 #### **Backend Stack:**
