@@ -121,7 +121,7 @@ Worked on three key projects that honed my skills in full-stack development:
 
 - **EC2 Instances:** Deployed backend services on AWS EC2 for scalability.
 - **S3 Buckets:** Stored static assets like images and documents in AWS S3.
-- **AWS Elastic Beanstalk:** Used for deploying and scaling web applications.
+
 
 #### **CI/CD Pipelines:**
 
